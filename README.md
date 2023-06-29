@@ -8,3 +8,4 @@ Projects completed within Yandex Practicum Data Analyst Course
 | 3  | [Determing Optimal Tariff For Telecom Company](projects_rus/3_determing_optimal_tariff_for_telecom_company/statistical_data_analysis.ipynb) | Telecom | python, pandas, numpy, matplotlib, seaborn |
 | 4  | [Marketing Analysis of App 'Procrastinate Pro +](projects_rus/4_marketing_analysis_of_app/business_metric_analysis.ipynb) | Internet Service | python, pandas, numpy, matplotlib, seaborn |
 | 5  | [Online Shop Revenue Increase](projects_rus/5_online_shop_revenue_increase/decision_making.ipynb) | Online shop | python, pandas, numpy, datetime, math, scipy, matplotlib |
+| 6  | [Mobile Grocery App](projects_rus/6_mobile_grocery_app/mobile_grocery_app.ipynb) | Online shop | python, pandas, numpy, datetime, math, scipy, matplotlib, seaborn, plotly |
