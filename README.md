@@ -9,3 +9,5 @@ Projects completed within Yandex Practicum Data Analyst Course
 | 4  | [Marketing Analysis of App 'Procrastinate Pro +](projects_rus/4_marketing_analysis_of_app/business_metric_analysis.ipynb) | Internet Service | python, pandas, numpy, matplotlib, seaborn |
 | 5  | [Online Shop Revenue Increase](projects_rus/5_online_shop_revenue_increase/decision_making.ipynb) | Online shop | python, pandas, numpy, datetime, math, scipy, matplotlib |
 | 6  | [Mobile Grocery App](projects_rus/6_mobile_grocery_app/mobile_grocery_app.ipynb) | Online shop | python, pandas, numpy, datetime, math, scipy, matplotlib, seaborn, plotly |
+| 7  | [Moscow food places](projects_rus/6_mobile_grocery_app/mobile_grocery_app.ipynb) | Catering market business | python, pandas, numpy, scipy, requests, matplotlib, seaborn, plotly |
+| 8  | [Yandex Dzen Dashboard](projects_rus/8_yandex_dzen_dashboard/README.md) | Online Service | Tableau |
