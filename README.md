@@ -1,5 +1,4 @@
-# data_analyst_projects
-Projects completed within Yandex Practicum Data Analyst Course
+# Projects completed within Yandex Practicum Data Analyst Course
 
 | #  | Project Name | Industry  | Stack |
 | ------------- | ------------- | ------------- | ------------- |
